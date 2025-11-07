@@ -7,4 +7,4 @@
 - 🧰 Tools: VS Code | GitHub | Ubuntu | AWS CloudShell
 
 ### 📫 Connect with me:
-LinkedIn:https://www.linkedin.com/in/gokula-kannan312/
+LinkedIn:https://www.linkedin.com/in/gokul-cloud-devops/
