@@ -1,4 +1,4 @@
-# 👋 Hi, I'm **Gokula Kannan**
+# 👋 Hi, I'm **Gokula Kannan N**
 
 ### 🚀 Aspiring Cloud & DevOps Engineer  
 Transitioning from Senior Business Development to Cloud, Automation & System Engineering.
