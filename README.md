@@ -13,9 +13,9 @@ Strong communication & problem-solving mindset from Sales → now applying into 
 |------|----------------|
 | **Linux** | Shell Commands, Users/Permissions, File System |
 | **Git & GitHub** | Branching, Merging, Pull Requests, Version Control |
-| **Cloud (AWS)** | IAM, EC2, S3 (Learning Phase) |
-| **Containers** | Docker (Upcoming) |
-| **CI/CD** | GitHub Actions / Jenkins (Upcoming) |
+| **Cloud (AWS)** | IAM, EC2, S3 |
+| **Containers** | Docker |
+| **CI/CD** | GitHub Actions |
 
 ---
 
