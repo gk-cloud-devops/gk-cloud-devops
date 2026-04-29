@@ -47,7 +47,7 @@ Experienced **Senior Business Development Executive** with a strong foundation i
 ## 🤝 **Let's Connect**
 
 - **Linktree:** [gokul-cloud-devops](https://linktr.ee/gk_cloud_devops)
-- **Resume/CV:** [Gokula-Kannan-DevOps-Resume](https://folll.io/gokul-cloud-devops)
+- **Website:** [Gokul](https://gokulakannan.me)
 - **Email:** [gkclouddevops@gmail.com](mailto:gkclouddevops@gmail.com) 
 - **Location:** Madurai, Tamil Nadu 
 
