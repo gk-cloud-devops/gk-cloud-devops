@@ -2,7 +2,7 @@
 
 <img align="right" width="160" src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/gear.svg">
 
-### Transitioning DevOps & Cloud Engineer | 4+ Years Professional Experience
+### Transitioning DevOps & Cloud Engineer | 2+ Years Professional Experience
 
 Experienced **Senior Business Development Executive** with a strong foundation in Computer Science. I am actively transitioning into **DevOps & Platform Engineering**, leveraging my background in client engagement to bridge the gap between business needs and technical automation.
 
@@ -11,7 +11,7 @@ Experienced **Senior Business Development Executive** with a strong foundation i
 ## 🚀 **Career Transition Journey**
 
 - 🛠 **Current Focus:** Automating workflows using Docker and CI/CD pipelines.
-- 📈 **Experience:** 4+ years in IT Business Development, managing high-value blockchain projects.
+- 📈 **Experience:** 2+ years in IT Business Development, managing high-value blockchain projects.
 - 🎓 **Background:** B.E. in Computer Science & Engineering  + MBA.
 - 🎯 **Target:** Junior DevOps / Cloud Engineer / SRE Roles.
 
